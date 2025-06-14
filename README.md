@@ -18,32 +18,6 @@ Currently, I'm pursuing my Bachelor's degree in Computer Science at NUST MISIS a
 
 ---
 
-### 🚀 Featured Projects
-
-### 🚀 Featured Projects:
-
-1.  **NLP System for Financial News Sentiment Classification | `VK_News_Analysis`**
-    *   **Description:** Developed a full pipeline from RSS feed parsing to a Telegram bot displaying real-time market sentiment analytics.
-    *   **Stack:** `Pandas`, `VK Sentence Encoders (BGE-M3)`, `PCA`, `Telegram Bot API`, `SVM`.
-    *   **Outcome:** SVM model with F1=69% on the test set, auto-updating Telegram bot.
-    *   **Link:** [https://github.com/TheoRybalov/VK_News_Analysis](https://github.com/TheoRybalov/VK_News_Analysis)
-
-2.  **Social Media Post Recommendation System | `KC_Final_RecSys`**
-    *   **Description:** Built two recommendation models (TF-IDF and BERT embeddings), implemented feature engineering, and a FastAPI service.
-    *   **Stack:** `PostgreSQL`, `Pandas`, `Scikit-learn`, `CatBoost`, `Transformers`, `FastAPI`.
-    *   **Outcome:** Hitrate@ = 0.65, FastAPI service with <0.5 sec response time and <4 GB memory consumption.
-    *   **Link:** [https://github.com/TheoRybalov/KC_Final_RecSys](https://github.com/TheoRybalov/KC_Final_RecSys)
-
-3.  **Customer Churn Prediction Model (Kaggle) | `A_money_internship`**
-    *   **Description:** Performed EDA, feature engineering, and built a CatBoost model to predict customer churn, addressing class imbalance.
-    *   **Stack:** `Pandas`, `Numpy`, `Scikit-Learn`, `CatBoost`.
-    *   **Outcome:** F1 = 89% on the test set.
-    *   **Link:** [https://github.com/TheoRybalov/A_money_internship](https://github.com/TheoRybalov/A_money_internship)
-
-➡️ *You can find more of my projects in my repositories!*
-
----
-
 ### 🛠️ Languages and Tools:
 
 **Programming Languages:**
@@ -76,6 +50,30 @@ Currently, I'm pursuing my Bachelor's degree in Computer Science at NUST MISIS a
 ### 📊 My GitHub Stats:
 [![TheoRybalov's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheoRybalov&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoRybalov&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🚀 Featured Projects
+
+1.  **NLP System for Financial News Sentiment Classification | `VK_News_Analysis`**
+    *   **Description:** Developed a full pipeline from RSS feed parsing to a Telegram bot displaying real-time market sentiment analytics.
+    *   **Stack:** `Pandas`, `VK Sentence Encoders (BGE-M3)`, `PCA`, `Telegram Bot API`, `SVM`.
+    *   **Outcome:** SVM model with F1=69% on the test set, auto-updating Telegram bot.
+    *   **Link:** [https://github.com/TheoRybalov/VK_News_Analysis](https://github.com/TheoRybalov/VK_News_Analysis)
+
+2.  **Social Media Post Recommendation System | `KC_Final_RecSys`**
+    *   **Description:** Built two recommendation models (TF-IDF and BERT embeddings), implemented feature engineering, and a FastAPI service.
+    *   **Stack:** `PostgreSQL`, `Pandas`, `Scikit-learn`, `CatBoost`, `Transformers`, `FastAPI`.
+    *   **Outcome:** Hitrate@ = 0.65, FastAPI service with <0.5 sec response time and <4 GB memory consumption.
+    *   **Link:** [https://github.com/TheoRybalov/KC_Final_RecSys](https://github.com/TheoRybalov/KC_Final_RecSys)
+
+3.  **Customer Churn Prediction Model (Kaggle) | `A_money_internship`**
+    *   **Description:** Performed EDA, feature engineering, and built a CatBoost model to predict customer churn, addressing class imbalance.
+    *   **Stack:** `Pandas`, `Numpy`, `Scikit-Learn`, `CatBoost`.
+    *   **Outcome:** F1 = 89% on the test set.
+    *   **Link:** [https://github.com/TheoRybalov/A_money_internship](https://github.com/TheoRybalov/A_money_internship)
+
+➡️ *You can find more of my projects in my repositories!*
 
 ---
 
