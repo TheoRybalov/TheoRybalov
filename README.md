@@ -48,8 +48,8 @@ Currently, I'm pursuing my Bachelor's degree in Computer Science at NUST MISIS a
 ---
 
 ### 📊 My GitHub Stats:
-[![TheoRybalov's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheoRybalov&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoRybalov&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![TheoRybalov's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheoRybalov&show_icons=true&theme=default&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoRybalov&layout=compact&theme=default&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -74,19 +74,6 @@ Currently, I'm pursuing my Bachelor's degree in Computer Science at NUST MISIS a
     *   **Link:** [https://github.com/TheoRybalov/A_money_internship](https://github.com/TheoRybalov/A_money_internship)
 
 ➡️ *You can find more of my projects in my repositories!*
-
----
-
-<!-- Optional: GitHub Stats (uncomment and replace `TheoRybalov` with your username if needed)
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheoRybalov&show_icons=true&theme=radical&rank_icon=github" alt="Fyodor's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoRybalov&layout=compact&theme=radical" alt="Top Langs" />
-</p>
--->
 
 ---
 
